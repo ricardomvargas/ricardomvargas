@@ -5,6 +5,7 @@ I've been working with web development for over 6 years, I started my career as 
 Nowadays I'm focused on front end development with React and my goal as a developer is to become a full stack developer with Node JS. Here in my GitHub is where you can find my experiments. :neckbeard:
 
 You can reach me through:
+- :spider_web: Website: https://ricardomvargas.github.io/
 - :bust_in_silhouette: Linkedin: https://www.linkedin.com/in/ricardo-m-vargas/
 - :bird: Twitter: https://twitter.com/ricardomvargas
 - 📫 Email: mvargas.ricardo@gmail.com
