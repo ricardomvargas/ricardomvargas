@@ -9,5 +9,3 @@ You can reach me through:
 - :bust_in_silhouette: Linkedin: https://www.linkedin.com/in/ricardo-m-vargas/
 - :bird: Twitter: https://twitter.com/ricardomvargas
 - 📫 Email: mvargas.ricardo@gmail.com
-
-Thansk for visiting my profile!
