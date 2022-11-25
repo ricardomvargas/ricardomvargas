@@ -7,5 +7,4 @@ Nowadays I'm focused on frontend development with React and studying a bunch of 
 You can reach me through:
 - :spider_web: Website: https://ricardomvargas.github.io/
 - :bust_in_silhouette: Linkedin: https://www.linkedin.com/in/ricardo-m-vargas/
-- :bird: Twitter: https://twitter.com/ricardomvargas
 - 📫 Email: mvargas.ricardo@gmail.com
