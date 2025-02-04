@@ -1,4 +1,4 @@
-👋 Hi, I’m Ricardo, a Frontend Engineer from Brazil that lives in The Netherlands.
+👋 Hi, I’m Ricardo, a Frontend Engineer from Brazil living in The Netherlands.
 
 You can reach me through:
 - :spider_web: Website: https://ricardomvargas.github.io/
